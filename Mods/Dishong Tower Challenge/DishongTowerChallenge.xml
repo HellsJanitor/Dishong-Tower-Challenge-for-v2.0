@@ -5,7 +5,9 @@
             <Description>CHANGELOG V 2.0.0:
 Essentially the same as the Alpha 21 version, with some notable changes:
 
-The challenge system has been reworked to reflect the specific challenges for the Dishong Tower
+The challenge system has been reworked to reflect the specific challenges for the Dishong Tower.
+
+The new Sledgehammer Saga book series has been added to Janitor loot.
 
 The gear awarded for completing the first row of challenges has been updated. You now receive a full set of primitive armour (already on your character), plus an intellect mod.
 The wrench, helmet light mod and Wasteland Treasures book are still awarded as they were in previous versions.	
@@ -27,7 +29,7 @@ Five custom worlds, each a different biome, so you can choose your starting "dif
 
 Custom-edited Dishong Tower POI, giving you everything you need to be able to complete your quest.
 
-Custom questline, guiding you on your way, and a Custom HUD.
+Custom questline, guiding you on your way.
 
 For version 2.0, I HIGHLY recommend turning biome progression OFF.
 					
@@ -48,18 +50,12 @@ CHALLENGE RULES:
 7: You must survive until you are able to build a gyrocopter and fly off the roof.
 			
 Contributors:
-DishongGameOptions 			-Author: w00kien00kie
 DishongLootBags 			-Author: w00kien00kie
 DishongPickupWorkstations 	-Author: w00kien00kie
-Cleaner HUD					-Author: Frantic_Dan
 KHA21-HPBars				-Author: Khaine
 Khelldon Custom Menu 		-Author: Khelldon
 WMMAvoidBloodmoon 			-Author: w00kien00kie
 WMMLootRespawnTweak			-Author: w00kien00kie
-WMMPersistGameOptions		-Author: w00kien00kie
-WMMStaminaDehydrationFix	-Author: w00kien00kie
-WMMStashBackpack			-Author: w00kien00kie
-WMMVideoOptions				-Author: w00kien00kie
 
 Credit to Glock9 for the very first idea of the challenge, which inspired the creation of the mod.
 						
