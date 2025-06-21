@@ -35,8 +35,6 @@ Custom-edited Dishong Tower POI, giving you everything you need to be able to co
 
 Custom questline, guiding you on your way.
 
-Custom HUD, and in-game options added for toggling crosshair visibility, health bar visibility, etc. Pause the game, and look for "Video", then the "Customize" tab.
-
  
 
 Challenge Rules: 
