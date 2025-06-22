@@ -93,74 +93,122 @@ explosivesSkillMagazineDT,Explosive Magazine
 zombieArlene,Moonlunaplays
 zombieArleneFeral,Feral Moonlunaplays
 zombieArleneRadiated,Radiated Moonlunaplays
+zombieArleneCharged,Charged Moonlunaplays
 zombieBiker,Zilox
 zombieBikerFeral,Feral Zilox
 zombieBikerRadiated,Radiated Zilox
+zombieBikerInfernal,Infernal Zilox
 zombieBoe,w00kien00kie
 zombieBoeFeral,Feral w00kien00kie
 zombieBoeRadiated,Radiated w00kien00kie
+zombieBoeCharged,Charged w00kien00kie
+zombieBoeInfernal,Infernal w00kien00kie
 zombieBurnt,Jagz_1
 zombieBurntFeral,Feral Jagz_1
 zombieBurntRadiated,Radiated Jagz_1
+zombieBurntCharged,Charged Jagz_1
+zombieBurntInfernal,Infernal Jagz_1
 zombieBusinessMan,LobitoGamingTV
 zombieBusinessManFeral,Feral LobitoGamingTV
 zombieBusinessManRadiated,Radiated LobitoGamingTV
+zombieBusinessManCharged,Charged LobitoGamingTV
+zombieBusinessManInfernal,Infernal LobitoGamingTV
 zombieDarlene,Lumun
 zombieDarleneFeral,Feral Lumun
 zombieDarleneRadiated,Radiated Lumun
+zombieDarleneCharged,Charged Lumun
+zombieDarleneInfernal,Infernal Lumun
 zombieFatCop,Frantic_Dan
 zombieFatCopFeral,Feral Frantic_Dan
 zombieFatCopRadiated,Radiated Frantic_Dan
+zombieFatCopInfernal,Infernal Frantic_Dan
 zombieFemaleFat,More2Me4Life
 zombieFemaleFatFeral,Feral More2Me4Life
 zombieFemaleFatRadiated,Radiated More2Me4Life
+zombieFemaleFatInfernal,Infernal More2Me4Life
 zombieJanitor,HellsJanitor
 zombieJanitorFeral,Feral HellsJanitor
 zombieJanitorRadiated,Radiated HellsJanitor
+zombieJanitorCharged,Charged HellsJanitor
+zombieJanitorInfernal,Infernal HellsJanitor
 zombieJoe,Glock9
 zombieJoeFeral,Feral Glock9
 zombieJoeRadiated,Radiated Glock9
+zombieJoeCharged,Charged Glock9
 zombieLab,Kualija
 zombieLabFeral,Feral Kualija
 zombieLabRadiated,Radiated Kualija
+zombieLabCharged,Charged Kualija
 zombieLumberjack,JonahBirch
 zombieLumberjackFeral,Feral JonahBirch
 zombieLumberjackRadiated,Radiated JonahBirch
+zombieLumberjackInfernal,Infernal JonahBirch
 zombieMaleHazmat,MidnightDesigner
 zombieMaleHazmatFeral,Feral MidnightDesigner
 zombieMaleHazmatRadiated,Radiated MidnightDesigner
+zombieMaleHazmatCharged,Charged MidnightDesigner
+zombieMaleHazmatInfernal,Infernal MidnightDesigner
 zombieMarlene,Misterri
 zombieMarleneFeral,Feral Misterri
 zombieMarleneRadiated,Radiated Misterri
+zombieMarleneCharged,Charged Misterri
 zombieMoe,PitchSilent
 zombieMoeFeral,Feral PitchSilent
 zombieMoeRadiated,Radiated PitchSilent
+zombieMoeInfernal,Infernal PitchSilent
+zombieMutated,Joutre_
+zombieMutatedFeral,Feral Joutre_
+zombieMutatedRadiated,Radiated Joutre_
+zombieMutatedCharged,Charged Joutre_
+zombieMutatedInfernal,Infernal Joutre_
 zombieNurse,RambunctiousRed
 zombieNurseFeral,Feral RambunctiousRed
 zombieNurseRadiated,Radiated RambunctiousRed
+zombieNurseCharged,Charged RambunctiousRed
 zombiePartyGirl,WaywardEko
 zombiePartyGirlFeral,Feral WaywardEko
 zombiePartyGirlRadiated,Radiated WaywardEko
+zombiePartyGirlCharged,Charged WaywardEko
 zombieScreamer,KimmyTot
 zombieScreamerFeral,Feral KimmyTot
 zombieScreamerRadiated,Radiated KimmyTot
+zombieScreamerCharged,Charged KimmyTot
 zombieSkateboarder,sphereII
 zombieSkateboarderFeral,Feral sphereII
 zombieSkateboarderRadiated,Radiated sphereII
+zombieSkateboarderCharged,Charged sphereII
+zombieSkateboarderInfernal,Infernal sphereII
 zombieSoldier,Shadow_Floodlight
 zombieSoldierFeral,Feral Shadow_Floodlight
-zombieSoldierRadiated,Raditaed Shadow_Floodlight
+zombieSoldierRadiated,Radiated Shadow_Floodlight
+zombieSoldierInfernal,Infernal Shadow_Floodlight
+zombieSpider,JynxedGinger
+zombieSpiderFeral,Feral JynxedGinger
+zombieSpiderRadiated,Radiated JynxedGinger
+zombieSpiderCharged,Charged JynxedGinger
+zombieSpiderInfernal,Infernal JynxedGinger
 zombieSteve,NotOnly25
 zombieSteveFeral,Feral NotOnly25
 zombieSteveRadiated,Radiated NotOnly25
+zombieSteveCharged,Charged NotOnly25
 zombieTomClark,AnneikaTheJammyBrit
 zombieTomClarkFeral,Feral AnneikaTheJammyBrit
 zombieTomClarkRadiated,Radiated AnneikaTheJammyBrit
+zombieTomClarkCharged,Charged AnneikaTheJammyBrit
+zombieUtilityWorker,Cran5000
+zombieUtilityWorkerFeral,Feral Cran5000
+zombieUtilityWorkerRadiated,Radiated Cran5000
+zombieUtilityWorkerCharged,Charged Cran5000
+zombieUtilityWorkerInfernal,Infernal Cran5000
 zombieYo,YubiNashi
 zombieYoFeral,Feral YubiNashi
 zombieYoRadiated,Radiated YubiNashi
+zombieYoCharged,Charged YubiNashi
+zombieYoInfernal,Infernal YubiNashi
 zombieWightFeral,Tyrant - Mr.X
 zombieWightRadiated,Radiated Tyrant - Mr.X
+zombieWightCharged,Charged Tyrant - Mr.X
+zombieWightInfernal,Infernal Tyrant - Mr.X
 animalZombieDog,AuroraGiggleFairy
 
 loadingTipDishong1,"All seed crafting is unlocked by default, and some seeds only require a couple of food items to make. There are SOME usuable farmplots in the tower ..."
