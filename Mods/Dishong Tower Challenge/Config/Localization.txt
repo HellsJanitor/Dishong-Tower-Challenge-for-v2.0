@@ -122,6 +122,10 @@ zombieFatCop,Frantic_Dan
 zombieFatCopFeral,Feral Frantic_Dan
 zombieFatCopRadiated,Radiated Frantic_Dan
 zombieFatCopInfernal,Infernal Frantic_Dan
+zombieFatHawaiian,VinyardRages
+zombieFatHawaiianFeral,Feral VinyardRages
+zombieFatHawaiianRadiated,Radiated VinyardRages
+zombieFatHawaiianInfernal,Infernal VinyardRages
 zombieFemaleFat,More2Me4Life
 zombieFemaleFatFeral,Feral More2Me4Life
 zombieFemaleFatRadiated,Radiated More2Me4Life
