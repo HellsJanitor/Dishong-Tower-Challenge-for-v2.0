@@ -186,11 +186,11 @@ zombieSoldier,Shadow_Floodlight
 zombieSoldierFeral,Feral Shadow_Floodlight
 zombieSoldierRadiated,Radiated Shadow_Floodlight
 zombieSoldierInfernal,Infernal Shadow_Floodlight
-zombieSpider,JynxedGinger
-zombieSpiderFeral,Feral JynxedGinger
-zombieSpiderRadiated,Radiated JynxedGinger
-zombieSpiderCharged,Charged JynxedGinger
-zombieSpiderInfernal,Infernal JynxedGinger
+zombieSpider,JynxdGinger79 
+zombieSpiderFeral,Feral JynxdGinger79 
+zombieSpiderRadiated,Radiated JynxdGinger79 
+zombieSpiderCharged,Charged JynxdGinger79 
+zombieSpiderInfernal,Infernal JynxdGinger79 
 zombieSteve,NotOnly25
 zombieSteveFeral,Feral NotOnly25
 zombieSteveRadiated,Radiated NotOnly25
