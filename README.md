@@ -1,7 +1,7 @@
 # Dishong Tower Challenge
 All files and folders needed to run the mod.
 
-**Please report any bugs/issues on the official forum thread:** https://community.7daystodie.com/topic/34098-the-dishong-tower-challenge-updated-for-alpha-21/
+**Please report any bugs/issues on the official forum thread:** [https://community.7daystodie.com/topic/34098-the-dishong-tower-challenge-updated-for-alpha-21/](https://community.thefunpimps.com/resources/the-dishong-tower-challenge-2-0.77/)
 
 ## CHANGELOG v 5.0.0
 
