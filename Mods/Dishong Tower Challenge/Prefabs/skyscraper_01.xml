@@ -35,11 +35,11 @@
   <property name="SVS84" value="spawn GroupGenericZombie 1^waitalive 0^spawn GroupAllFeral 1^waitalive 0^spawn GroupAllRadiated 1^waitalive 0^spawn GroupZomBadass 1^waitalive 0^spawn GroupGenericZombie 1" />
   <property class="Stats">
     <property name="LightsVolume" value="43035.79" />
-    <property name="TotalVertices" value="4170241" />
-    <property name="TotalTriangles" value="1743550" />
+    <property name="TotalVertices" value="4241485" />
+    <property name="TotalTriangles" value="1772314" />
     <property class="BlockEntities">
-      <property name="Vertices" value="3050810" />
-      <property name="Triangles" value="1103424" />
+      <property name="Vertices" value="3122054" />
+      <property name="Triangles" value="1132188" />
     </property>
     <property class="ChunkMeshes0">
       <property name="Vertices" value="1069025" />
