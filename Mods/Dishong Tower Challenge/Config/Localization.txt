@@ -156,10 +156,10 @@ zombieMarlene,Misterri
 zombieMarleneFeral,Feral Misterri
 zombieMarleneRadiated,Radiated Misterri
 zombieMarleneCharged,Charged Misterri
-zombieMoe,PitchSilent
-zombieMoeFeral,Feral PitchSilent
-zombieMoeRadiated,Radiated PitchSilent
-zombieMoeInfernal,Infernal PitchSilent
+zombieMoe,Fat Carl
+zombieMoeFeral,Feral Fat Carl
+zombieMoeRadiated,Radiated Fat Carl
+zombieMoeInfernal,Infernal Fat Carl
 zombieMutated,Joutre_
 zombieMutatedFeral,Feral Joutre_
 zombieMutatedRadiated,Radiated Joutre_
