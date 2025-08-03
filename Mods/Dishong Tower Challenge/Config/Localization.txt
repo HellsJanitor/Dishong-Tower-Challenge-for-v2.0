@@ -103,6 +103,10 @@ zombieBoeFeral,Feral w00kien00kie
 zombieBoeRadiated,Radiated w00kien00kie
 zombieBoeCharged,Charged w00kien00kie
 zombieBoeInfernal,Infernal w00kien00kie
+zombieBowler,Frilioth
+zombieBowlerFeral,Feral Frilioth
+zombieBowlerRadiated,Radiated Frilioth
+zombieBowlerInfernal,Infernal Frilioth
 zombieBurnt,Jagz_1
 zombieBurntFeral,Feral Jagz_1
 zombieBurntRadiated,Radiated Jagz_1
