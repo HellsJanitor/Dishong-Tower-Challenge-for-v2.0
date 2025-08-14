@@ -76,6 +76,21 @@
   <removeattribute xpath="/recipes/recipe[@name='plantedAloe1']/@tags" />
   <set xpath="/recipes/recipe[@name='plantedAloe1']/ingredient/@count">2</set>
   
+  <removeattribute xpath="/recipes/recipe[@name='plantedGoldenrod1']/@tags" />
+  <set xpath="/recipes/recipe[@name='plantedGoldenrod1']/ingredient/@count">2</set>
+  
+  <removeattribute xpath="/recipes/recipe[@name='plantedChrysanthemum1']/@tags" />
+  <set xpath="/recipes/recipe[@name='plantedChrysanthemum1']/ingredient/@count">2</set>
+  
+  <removeattribute xpath="/recipes/recipe[@name='plantedGraceCorn1']/@tags" />
+  <set xpath="/recipes/recipe[@name='plantedGraceCorn1']/ingredient/@count">2</set>
+  
+  <removeattribute xpath="/recipes/recipe[@name='plantedHop1']/@tags" />
+  <set xpath="/recipes/recipe[@name='plantedHop1']/ingredient/@count">2</set>
+  
+  <removeattribute xpath="/recipes/recipe[@name='plantedCotton1']/@tags" />
+  <set xpath="/recipes/recipe[@name='plantedCotton1']/ingredient/@count">2</set>
+  
   <!-- removes crafting of non-essential vehicles & parts -->
   <remove xpath="//recipe[@name='vehicleTruck4x4Accessories']"/>
   <remove xpath="//recipe[@name='vehicleTruck4x4Chassis']"/>
