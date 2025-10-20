@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <Name value="FrilPickupWorkstations"/>          
+  <DisplayName value="Fril Pickup Workstations"/> 
+  <Version value="1.0.0"/>
+  <Description value="Hold E with empty hand to pick up your own (player-placed) workstations. Drops if inventory full."/>
+  <Author value="Fril"/>
+  <Website value=""/>
+</xml>
