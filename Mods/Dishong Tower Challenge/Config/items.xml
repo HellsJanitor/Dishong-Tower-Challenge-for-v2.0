@@ -769,4 +769,11 @@
 			</effect_group>
 		</item>
 	</insertafter>
+	
+	  <!-- Safely remove biome gear unlock references to stop crafting UI errors -->
+	  <remove xpath="//item[@name='biomeWeatherItem1']/property[@name='UnlockedBy']"/>
+	  <remove xpath="//item[@name='biomeWeatherItem2']/property[@name='UnlockedBy']"/>
+	  <remove xpath="//item[@name='biomeWeatherItem3']/property[@name='UnlockedBy']"/>
+	  <remove xpath="//item[@name='biomeWeatherItem4']/property[@name='UnlockedBy']"/>
+	  <remove xpath="//item[@name='biomeWeatherItem5']/property[@name='UnlockedBy']"/>
 </configs>
